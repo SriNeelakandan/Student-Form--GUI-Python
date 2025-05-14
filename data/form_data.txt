@@ -1,0 +1,3 @@
+Name: Sri Neelakandan P, Age: 21, Course: ECE, Address: Trichy
+Name: Suchithra, Age: 23, Course: AIDS, Address: Chennai
+Name: Ramkumar, Age: 22, Course: ECE, Address: Rajapalayam
